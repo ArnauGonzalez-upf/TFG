@@ -6,7 +6,7 @@ Both applications have been developed in Python using Notebooks, which offer com
 ## What is each file?
 IID.ipynb: Corresponds to the application to compute all the different equations and bounds derived in this thesis for the i.i.d. case.
 CC.ipynb: The same as the last one but for the cost-constrained case.
-DerivativesDemonstrationIID.ipynb This notebook demonstrates the relations between the derivatives of $E_0(\rho)$ and $\kappa_s(\rho)|_{s=\frac{1}{1+\rho}}$.
+DerivativesDemonstrationIID.ipynb This notebook demonstrates the relations between the derivatives of $E_0(\rho)$ and $\kappa_s(\rho)$.
 DerivativesDemonstrationIID.ipynb: The same as the last one but for the derivatives of $E_0(\rho, r)$ and $\kappa_{s,r}(\rho)|_{s=\frac{1}{1+\rho}}$.
 
 \section{Configuration }
