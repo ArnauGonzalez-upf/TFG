@@ -9,7 +9,7 @@ CC.ipynb: The same as the last one but for the cost-constrained case.
 DerivativesDemonstrationIID.ipynb This notebook demonstrates the relations between the derivatives for the i.i.d. case.
 DerivativesDemonstrationIID.ipynb: The same as the last one but for the cost-constrained case derivatives.
 
-\section{Configuration }
+## Configuration
 So, we have the following configuration sections:
 
     - **Mode:** There is only one parameter in this section and corresponds to which type of calculation will be done, where the options are: over $n$, $R$, or the SNR.
@@ -19,4 +19,3 @@ So, we have the following configuration sections:
     - **SNR:** This section allows the users to select the mean energy per symbol $\E$ as well as the $\sigma$ values for the noise. For the latter, there are two options: for the modes in which the bounds are calculated over $n$ or $R$, only one value of $\sigma$ is needed; but for the mode in which are calculated over the SNR, users must select the $\sigma^2$ values at the beginning and the end of the range, being, in this case, squared to make an easier comparison to the SNR, but later are converted automatically to $\sigma$ using their square root.
     - **Logarithmic view:** Toggle to set the $y$ axis in the plot results in a logarithmic scale.
     - **Save data:** Another toggle, which in this case allows the user to save the results obtained.
-\end{itemize}
