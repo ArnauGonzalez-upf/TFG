@@ -4,10 +4,10 @@
 Both applications have been developed in Python using Notebooks, which offer compatibility for different operative systems and can be used in Anaconda and Google Colab environments, which come with all the packages needed already installed so, for the users, it is a matter of downloading and executing them immediately. 
 
 ## What is each file?
-IID.ipynb: Corresponds to the application to compute all the different equations and bounds derived in this thesis for the i.i.d. case.
-CC.ipynb: The same as the last one but for the cost-constrained case.
-DerivativesDemonstrationIID.ipynb This notebook demonstrates the relations between the derivatives for the i.i.d. case.
-DerivativesDemonstrationIID.ipynb: The same as the last one but for the cost-constrained case derivatives.
+- **IID.ipynb:** Corresponds to the application to compute all the different equations and bounds derived in this thesis for the i.i.d. case.
+- **CC.ipynb:** The same as the last one but for the cost-constrained case.
+- **DerivativesDemonstrationIID.ipynb:** This notebook demonstrates the relations between the derivatives for the i.i.d. case.
+- **DerivativesDemonstrationIID.ipynb:** The same as the last one but for the cost-constrained case derivatives.
 
 ## Configuration
 So, we have the following configuration sections:
